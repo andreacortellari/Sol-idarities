@@ -1,4 +1,4 @@
-printing_house_id	printing_house_name	city_name	publication_title
+company_id	company_name	city_name	publication_title
 1	Hermon Matbaası	İstanbul	Kurtuluş Yolu
 2	Haşmet Matbaası	İstanbul	Türk Solu
 2	Haşmet Matbaası	İstanbul	Kurtuluş Yolu
@@ -36,3 +36,7 @@ printing_house_id	printing_house_name	city_name	publication_title
 27	Yağaç Matbaası		Proleter
 28	Ser Matbaası		Proleter
 29	Acar Matbaası	İstanbul	Yeni Gerçek
+30	Ayrıntı Yayınları	İstanbul	
+31	Can Yayınları	İstanbul	
+32	Devrimci Sol	İstanbul	
+33	İletişim Yayınları	İstanbul	
