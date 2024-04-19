@@ -5,9 +5,7 @@ categories: [Articles]
 tags: []
 ---
 
-| article_title          | author_type   | author      | publication_title    |   issue_number | issue_date   |   pages |   regular_feature_title |
-|:-----------------------|:--------------|:------------|:---------------------|---------------:|:-------------|--------:|------------------------:|
-| El Feth'e Niye Gittim? | Author        | Yusuf Aslan | Haftalık Ant Dergisi |            165 | 1970-02      |       6 |                     nan |
+**Cite source**: Yusuf Aslan, "El Feth'e Niye Gittim?", _Haftalık Ant Dergisi_, , 6
 
 Bugün Ortadoğu'da Amerikan imperyalizminin ileri karakolu olan İsrail'e karşı Arap halkları anti-emperyalist bir savaş yürütmektedirler. Bu savaş Asya’da, Afrika'da, Latin Amerika'da ve bütün dünyada emperyalizmin baskısı altında ezilen halkların yürüttüğü devrimci kavganın bir parcasi.
 
