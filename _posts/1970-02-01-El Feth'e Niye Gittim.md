@@ -1,3 +1,10 @@
+---
+title: El Feth'e Niye Gittim?
+date: 1970-02-01 00:00:00 +0100
+categories: [Articles]
+tags: []
+---
+
 | article_title          | author_type   | author      | publication_title    |   issue_number | issue_date   |   pages |   regular_feature_title |
 |:-----------------------|:--------------|:------------|:---------------------|---------------:|:-------------|--------:|------------------------:|
 | El Feth'e Niye Gittim? | Author        | Yusuf Aslan | Haftalık Ant Dergisi |            165 | 1970-02      |       6 |                     nan |
