@@ -5,7 +5,7 @@ categories: [Articles]
 tags: []
 ---
 
-```Nayif Havatme, "Filistin Devrimi'nin Sorunları ve Eylül Dersleri," _Aylık Ant Dergisi_, , 77-82```
+```Nayif Havatme, "Filistin Devrimi'nin Sorunları ve Eylül Dersleri," Aylık Ant Dergisi, , 77-82```
 
 f. d. h. k. c.nin filistin'deki son durum üzerine görüşü
 
