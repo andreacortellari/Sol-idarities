@@ -5,3 +5,5 @@ categories: [Books]
 tags: []
 ---
 
+```Adil Okay. 12 Eylül ve Filistin Günlüğü. Ankara: , 2008```
+

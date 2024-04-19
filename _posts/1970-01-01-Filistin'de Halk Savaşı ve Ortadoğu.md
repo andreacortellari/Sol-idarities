@@ -5,3 +5,5 @@ categories: [Books]
 tags: []
 ---
 
+```Nayif Havatme. Filistin'de Halk Savaşı ve Ortadoğu. İstanbul: , 1970```
+

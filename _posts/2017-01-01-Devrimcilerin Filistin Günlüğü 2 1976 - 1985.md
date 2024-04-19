@@ -5,3 +5,5 @@ categories: [Books]
 tags: []
 ---
 
+```Oktay Duman. Devrimcilerin Filistin Günlüğü 2 1976 - 1985. İstanbul: , 2017```
+

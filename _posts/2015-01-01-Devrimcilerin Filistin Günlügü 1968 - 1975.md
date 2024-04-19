@@ -5,3 +5,5 @@ categories: [Books]
 tags: []
 ---
 
+```Oktay Duman. Devrimcilerin Filistin Günlügü 1968 - 1975. İstanbul: , 2015```
+

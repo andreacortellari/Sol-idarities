@@ -5,3 +5,5 @@ categories: [Books]
 tags: []
 ---
 
+```A. Kadir Yaşargün. Filistin Fedaileri. Gazi Antep'ten Filistin'e Bir Dostluk ve Mücadele Öyküsü. İstanbul: , 2005```
+

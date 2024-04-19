@@ -5,3 +5,5 @@ categories: [Books]
 tags: []
 ---
 
+```Yasar Küpeli. Filistin'de Iki Resim. Ankara: , 2015```
+

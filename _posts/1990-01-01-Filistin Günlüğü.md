@@ -5,3 +5,5 @@ categories: [Books]
 tags: []
 ---
 
+```Cüneyt Kafkas. Filistin Günlüğü. İstanbul: , 1990```
+

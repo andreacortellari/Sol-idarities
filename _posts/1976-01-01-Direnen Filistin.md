@@ -5,3 +5,5 @@ categories: [Books]
 tags: []
 ---
 
+```Cengiz Çandar. Direnen Filistin. İstanbul: , 1976```
+

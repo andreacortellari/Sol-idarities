@@ -5,3 +5,5 @@ categories: [Books]
 tags: []
 ---
 
+```Hasan Mantıcı. Filistin Güncesi. İstanbul: , 2014```
+
