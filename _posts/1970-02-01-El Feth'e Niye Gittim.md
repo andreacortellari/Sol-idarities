@@ -5,7 +5,7 @@ categories: [Articles]
 tags: []
 ---
 
-**Cite source**: Yusuf Aslan, "El Feth'e Niye Gittim?", _Haftalık Ant Dergisi_, , 6
+**Cite source**: Yusuf Aslan, "El Feth'e Niye Gittim?," _Haftalık Ant Dergisi_, , 6
 
 Bugün Ortadoğu'da Amerikan imperyalizminin ileri karakolu olan İsrail'e karşı Arap halkları anti-emperyalist bir savaş yürütmektedirler. Bu savaş Asya’da, Afrika'da, Latin Amerika'da ve bütün dünyada emperyalizmin baskısı altında ezilen halkların yürüttüğü devrimci kavganın bir parcasi.
 
