@@ -9,5 +9,5 @@ tags: []
 
 | Cite this:   |
 |--------|
-| Gérard Chaliand, "Tartışmanın Özü," Türk Solu, , 13 
+| Gérard Chaliand, "Tartışmanın Özü," Türk Solu, 89, 13 
 

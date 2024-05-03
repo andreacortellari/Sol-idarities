@@ -9,5 +9,5 @@ tags: []
 
 | Cite this:   |
 |--------|
-| , "Lübnan Dar Boğazlara Sürükleniyor," Emek, , 14 
+| , "Lübnan Dar Boğazlara Sürükleniyor," Emek, 16, 14 
 

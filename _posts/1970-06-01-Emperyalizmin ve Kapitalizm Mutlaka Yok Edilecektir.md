@@ -9,5 +9,5 @@ tags: []
 
 | Cite this:   |
 |--------|
-| , "Emperyalizmin ve Kapitalizm Mutlaka Yok Edilecektir," Kurtuluş Yolu, , 3 
+| , "Emperyalizmin ve Kapitalizm Mutlaka Yok Edilecektir," Kurtuluş Yolu, 9, 3 
 

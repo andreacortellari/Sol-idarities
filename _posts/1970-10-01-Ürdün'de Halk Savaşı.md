@@ -9,5 +9,5 @@ tags: []
 
 | Cite this:   |
 |--------|
-| , "Ürdün'de Halk Savaşı," DİSK Gazetesi (2), , 1-3 
+| , "Ürdün'de Halk Savaşı," DİSK Gazetesi (2), 3, 1-3 
 

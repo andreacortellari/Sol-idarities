@@ -9,5 +9,5 @@ tags: []
 
 | Cite this:   |
 |--------|
-| , "El Feth’in Açıklaması," Haftalık Ant Dergisi, , 2 
+| , "El Feth’in Açıklaması," Haftalık Ant Dergisi, 164, 2 
 

@@ -9,5 +9,5 @@ tags: []
 
 | Cite this:   |
 |--------|
-| , "Nayif Havatmeh Kimdir?," Haftalık Ant Dergisi, , 12 
+| , "Nayif Havatmeh Kimdir?," Haftalık Ant Dergisi, 164, 12 
 

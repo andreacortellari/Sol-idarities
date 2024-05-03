@@ -9,5 +9,5 @@ tags: []
 
 | Cite this:   |
 |--------|
-| , "Filistin’de Marksist-Leninist Cephe!," Haftalık Ant Dergisi, , 8-9 
+| , "Filistin’de Marksist-Leninist Cephe!," Haftalık Ant Dergisi, 138, 8-9 
 

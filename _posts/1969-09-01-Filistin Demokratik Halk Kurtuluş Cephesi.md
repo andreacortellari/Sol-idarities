@@ -9,5 +9,5 @@ tags: []
 
 | Cite this:   |
 |--------|
-| Mehmet Ali Cehşan, "Filistin Demokratik Halk Kurtuluş Cephesi," Türk Solu, , 8-10 
+| Mehmet Ali Cehşan, "Filistin Demokratik Halk Kurtuluş Cephesi," Türk Solu, 97, 8-10 
 

@@ -9,5 +9,5 @@ tags: []
 
 | Cite this:   |
 |--------|
-| Gérard Chaliand, "Filistin Mukavemeti," Türk Solu, , 10-11 
+| Gérard Chaliand, "Filistin Mukavemeti," Türk Solu, 81, 10-11 
 

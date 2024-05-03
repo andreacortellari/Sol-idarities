@@ -9,5 +9,5 @@ tags: []
 
 | Cite this:   |
 |--------|
-| , "Aydınlık'ta Dünya ve Türkiye," Aydınlık Sosyalist Dergi, , 33-44 
+| , "Aydınlık'ta Dünya ve Türkiye," Aydınlık Sosyalist Dergi, 1, 33-44 
 

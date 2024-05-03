@@ -9,5 +9,5 @@ tags: []
 
 | Cite this:   |
 |--------|
-| , "Mısırda Karışıklık," Kurtuluş Yolu, , 2 
+| , "Mısırda Karışıklık," Kurtuluş Yolu, 2, 2 
 

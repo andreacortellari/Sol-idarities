@@ -9,5 +9,5 @@ tags: []
 
 | Cite this:   |
 |--------|
-| Nayif Havatme, "Küçük Burjuvazinin Hezimeti ve Filistin Halk Savaşı," Aylık Ant Dergisi, , 75-84 
+| Nayif Havatme, "Küçük Burjuvazinin Hezimeti ve Filistin Halk Savaşı," Aylık Ant Dergisi, 2, 75-84 
 

@@ -9,5 +9,5 @@ tags: []
 
 | Cite this:   |
 |--------|
-| , "Filistin Demokratik Halk Kurtuluş Cephesi Görüşlerini Açıklıyor," Türk Solu, , 15-16 
+| , "Filistin Demokratik Halk Kurtuluş Cephesi Görüşlerini Açıklıyor," Türk Solu, 126, 15-16 
 

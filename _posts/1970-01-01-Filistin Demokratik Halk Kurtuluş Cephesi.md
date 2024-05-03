@@ -9,5 +9,5 @@ tags: []
 
 | Cite this:   |
 |--------|
-| , "Filistin Demokratik Halk Kurtuluş Cephesi," Haftalık Ant Dergisi, , 13 
+| , "Filistin Demokratik Halk Kurtuluş Cephesi," Haftalık Ant Dergisi, 158, 13 
 
