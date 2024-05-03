@@ -9,6 +9,5 @@ tags: []
 
 | Cite this:   |
 |--------|
-| ```"Milli şahsiyetiçin savaş," Türk Solu, , 14```
+| Gérard Chaliand, "Milli şahsiyetiçin savaş," Türk Solu, , 14 
 
- 

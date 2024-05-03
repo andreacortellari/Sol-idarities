@@ -9,6 +9,5 @@ tags: []
 
 | Cite this:   |
 |--------|
-| ```"Ya İstiklal Ya Ölüm!," Kurtuluş, , 2```
+| , "Ya İstiklal Ya Ölüm!," Kurtuluş, , 2 
 
- 

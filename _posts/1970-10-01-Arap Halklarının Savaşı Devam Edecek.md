@@ -9,6 +9,5 @@ tags: []
 
 | Cite this:   |
 |--------|
-| ```"Arap Halklarının Savaşı Devam Edecek," Kurtuluş, , 1```
+| , "Arap Halklarının Savaşı Devam Edecek," Kurtuluş, , 1 
 
- 

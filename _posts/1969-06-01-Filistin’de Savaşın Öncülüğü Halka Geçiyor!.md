@@ -9,6 +9,5 @@ tags: []
 
 | Cite this:   |
 |--------|
-| ```"Filistin’de Savaşın Öncülüğü Halka Geçiyor!," Haftalık Ant Dergisi, , 12-13```
+| , "Filistin’de Savaşın Öncülüğü Halka Geçiyor!," Haftalık Ant Dergisi, , 12-13 
 
- 

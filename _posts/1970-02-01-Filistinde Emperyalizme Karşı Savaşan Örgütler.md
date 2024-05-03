@@ -9,6 +9,5 @@ tags: []
 
 | Cite this:   |
 |--------|
-| ```"Filistinde Emperyalizme Karşı Savaşan Örgütler," Haftalık Ant Dergisi, , 12-13```
+| , "Filistinde Emperyalizme Karşı Savaşan Örgütler," Haftalık Ant Dergisi, , 12-13 
 
- 

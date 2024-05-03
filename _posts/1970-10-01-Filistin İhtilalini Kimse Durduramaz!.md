@@ -9,6 +9,5 @@ tags: []
 
 | Cite this:   |
 |--------|
-| ```"Filistin İhtilalini Kimse Durduramaz!," Proleter Devrimci Aydınlık, , 417-423```
+| , "Filistin İhtilalini Kimse Durduramaz!," Proleter Devrimci Aydınlık, , 417-423 
 
- 

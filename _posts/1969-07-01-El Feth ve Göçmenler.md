@@ -9,6 +9,5 @@ tags: []
 
 | Cite this:   |
 |--------|
-| ```"El Feth ve Göçmenler," Türk Solu, , 15```
+| Gérard Chaliand, "El Feth ve Göçmenler," Türk Solu, , 15 
 
- 

@@ -9,6 +9,5 @@ tags: []
 
 | Cite this:   |
 |--------|
-| ```"El Feth Gönüllüleri," Haftalık Ant Dergisi, , 3```
+| , "El Feth Gönüllüleri," Haftalık Ant Dergisi, , 3 
 
- 

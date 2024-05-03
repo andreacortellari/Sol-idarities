@@ -9,6 +9,5 @@ tags: []
 
 | Cite this:   |
 |--------|
-| ```"El Fetihe Katılan Gençlerin Bildirisi," Aydınlık Sosyalist Dergi, , 394-406```
+| , "El Fetihe Katılan Gençlerin Bildirisi," Aydınlık Sosyalist Dergi, , 394-406 
 
- 

@@ -9,6 +9,5 @@ tags: []
 
 | Cite this:   |
 |--------|
-| ```"Filistin’de Halk Savaşı Zafere Ulaşacaktır!," Aylık Ant Dergisi, , 2-5```
+| , "Filistin’de Halk Savaşı Zafere Ulaşacaktır!," Aylık Ant Dergisi, , 2-5 
 
- 

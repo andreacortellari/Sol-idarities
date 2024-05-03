@@ -9,6 +9,5 @@ tags: []
 
 | Cite this:   |
 |--------|
-| ```"Haziran 1967 den Sonra," Türk Solu, , 14```
+| Gérard Chaliand, "Haziran 1967 den Sonra," Türk Solu, , 14 
 
- 

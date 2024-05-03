@@ -9,6 +9,5 @@ tags: []
 
 | Cite this:   |
 |--------|
-| ```"Filistin İkinci Dünya Kongresi," Proleter Devrimci Aydınlık, , 423-425```
+| , "Filistin İkinci Dünya Kongresi," Proleter Devrimci Aydınlık, , 423-425 
 
- 

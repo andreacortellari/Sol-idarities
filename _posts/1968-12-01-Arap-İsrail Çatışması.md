@@ -9,6 +9,5 @@ tags: []
 
 | Cite this:   |
 |--------|
-| ```"Arap-İsrail Çatışması," Kurtuluş Yolu, , 2```
+| Minu İnkaya, "Arap-İsrail Çatışması," Kurtuluş Yolu, , 2 
 
- 

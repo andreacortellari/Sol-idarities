@@ -9,6 +9,5 @@ tags: []
 
 | Cite this:   |
 |--------|
-| ```"Filistin Halk Kurtuluş Cephesinde bölünmeler," Türk Solu, , 13```
+| Gérard Chaliand, "Filistin Halk Kurtuluş Cephesinde bölünmeler," Türk Solu, , 13 
 
- 

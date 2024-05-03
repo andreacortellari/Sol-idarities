@@ -9,6 +9,5 @@ tags: []
 
 | Cite this:   |
 |--------|
-| ```"11 Genç Tutuklandı," Haftalık Ant Dergisi, , 3```
+| , "11 Genç Tutuklandı," Haftalık Ant Dergisi, , 3 
 
- 
