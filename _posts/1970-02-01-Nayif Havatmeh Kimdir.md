@@ -5,6 +5,10 @@ categories: [Articles]
 tags: []
 ---
 
-```"Nayif Havatmeh Kimdir?," Haftalık Ant Dergisi, , 12```
 
 
+| Cite this:   |
+|--------|
+| ```"Nayif Havatmeh Kimdir?," Haftalık Ant Dergisi, , 12```
+
+ 

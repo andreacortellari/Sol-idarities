@@ -5,6 +5,10 @@ categories: [Articles]
 tags: []
 ---
 
-```"11 Genç Tutuklandı," Haftalık Ant Dergisi, , 3```
 
 
+| Cite this:   |
+|--------|
+| ```"11 Genç Tutuklandı," Haftalık Ant Dergisi, , 3```
+
+ 

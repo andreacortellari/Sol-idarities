@@ -5,6 +5,10 @@ categories: [Articles]
 tags: []
 ---
 
-```"Filistin’de Marksist-Leninist Cephe!," Haftalık Ant Dergisi, , 8-9```
 
 
+| Cite this:   |
+|--------|
+| ```"Filistin’de Marksist-Leninist Cephe!," Haftalık Ant Dergisi, , 8-9```
+
+ 

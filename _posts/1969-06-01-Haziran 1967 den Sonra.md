@@ -5,6 +5,10 @@ categories: [Articles]
 tags: []
 ---
 
-```"Haziran 1967 den Sonra," Türk Solu, , 14```
 
 
+| Cite this:   |
+|--------|
+| ```"Haziran 1967 den Sonra," Türk Solu, , 14```
+
+ 

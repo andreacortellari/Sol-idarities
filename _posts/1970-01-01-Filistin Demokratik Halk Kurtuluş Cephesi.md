@@ -5,6 +5,10 @@ categories: [Articles]
 tags: []
 ---
 
-```"Filistin Demokratik Halk Kurtuluş Cephesi," Haftalık Ant Dergisi, , 13```
 
 
+| Cite this:   |
+|--------|
+| ```"Filistin Demokratik Halk Kurtuluş Cephesi," Haftalık Ant Dergisi, , 13```
+
+ 

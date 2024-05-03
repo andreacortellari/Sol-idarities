@@ -5,6 +5,10 @@ categories: [Articles]
 tags: []
 ---
 
-```"Ürdün'de Halk Savaşı," DİSK Gazetesi (2), , 1-3```
 
 
+| Cite this:   |
+|--------|
+| ```"Ürdün'de Halk Savaşı," DİSK Gazetesi (2), , 1-3```
+
+ 

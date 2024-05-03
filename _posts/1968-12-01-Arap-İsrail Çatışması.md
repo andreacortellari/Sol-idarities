@@ -5,6 +5,10 @@ categories: [Articles]
 tags: []
 ---
 
-```"Arap-İsrail Çatışması," Kurtuluş Yolu, , 2```
 
 
+| Cite this:   |
+|--------|
+| ```"Arap-İsrail Çatışması," Kurtuluş Yolu, , 2```
+
+ 

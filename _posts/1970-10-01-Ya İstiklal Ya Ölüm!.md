@@ -5,6 +5,10 @@ categories: [Articles]
 tags: []
 ---
 
-```"Ya İstiklal Ya Ölüm!," Kurtuluş, , 2```
 
 
+| Cite this:   |
+|--------|
+| ```"Ya İstiklal Ya Ölüm!," Kurtuluş, , 2```
+
+ 

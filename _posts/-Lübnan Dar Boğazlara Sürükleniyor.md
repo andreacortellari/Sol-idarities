@@ -5,6 +5,10 @@ categories: [Articles]
 tags: []
 ---
 
-```"Lübnan Dar Boğazlara Sürükleniyor," Emek, , 14```
 
 
+| Cite this:   |
+|--------|
+| ```"Lübnan Dar Boğazlara Sürükleniyor," Emek, , 14```
+
+ 

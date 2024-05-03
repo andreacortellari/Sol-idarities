@@ -5,6 +5,10 @@ categories: [Articles]
 tags: []
 ---
 
-```"Filistin İkinci Dünya Kongresi," Proleter Devrimci Aydınlık, , 423-425```
 
 
+| Cite this:   |
+|--------|
+| ```"Filistin İkinci Dünya Kongresi," Proleter Devrimci Aydınlık, , 423-425```
+
+ 

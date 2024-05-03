@@ -5,6 +5,10 @@ categories: [Articles]
 tags: []
 ---
 
-```"Filistin Demokratik Halk Kurtuluş Cephesi Görüşlerini Açıklıyor," Türk Solu, , 15-16```
 
 
+| Cite this:   |
+|--------|
+| ```"Filistin Demokratik Halk Kurtuluş Cephesi Görüşlerini Açıklıyor," Türk Solu, , 15-16```
+
+ 

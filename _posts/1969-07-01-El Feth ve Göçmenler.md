@@ -5,6 +5,10 @@ categories: [Articles]
 tags: []
 ---
 
-```"El Feth ve Göçmenler," Türk Solu, , 15```
 
 
+| Cite this:   |
+|--------|
+| ```"El Feth ve Göçmenler," Türk Solu, , 15```
+
+ 

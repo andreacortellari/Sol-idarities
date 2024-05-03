@@ -5,6 +5,10 @@ categories: [Articles]
 tags: []
 ---
 
-```"Küçük Burjuvazinin Hezimeti ve Filistin Halk Savaşı," Aylık Ant Dergisi, , 75-84```
 
 
+| Cite this:   |
+|--------|
+| ```"Küçük Burjuvazinin Hezimeti ve Filistin Halk Savaşı," Aylık Ant Dergisi, , 75-84```
+
+ 

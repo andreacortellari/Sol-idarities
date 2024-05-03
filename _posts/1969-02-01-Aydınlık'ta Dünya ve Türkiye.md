@@ -5,6 +5,10 @@ categories: [Articles]
 tags: []
 ---
 
-```"Aydınlık'ta Dünya ve Türkiye," Aydınlık Sosyalist Dergi, , 261-278```
 
 
+| Cite this:   |
+|--------|
+| ```"Aydınlık'ta Dünya ve Türkiye," Aydınlık Sosyalist Dergi, , 261-278```
+
+ 

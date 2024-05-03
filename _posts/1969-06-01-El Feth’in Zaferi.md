@@ -5,6 +5,10 @@ categories: [Articles]
 tags: []
 ---
 
-```"El Feth’in Zaferi," Türk Solu, , 12```
 
 
+| Cite this:   |
+|--------|
+| ```"El Feth’in Zaferi," Türk Solu, , 12```
+
+ 

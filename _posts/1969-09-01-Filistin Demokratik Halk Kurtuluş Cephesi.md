@@ -5,6 +5,10 @@ categories: [Articles]
 tags: []
 ---
 
-```"Filistin Demokratik Halk Kurtuluş Cephesi," Türk Solu, , 8-10```
 
 
+| Cite this:   |
+|--------|
+| ```"Filistin Demokratik Halk Kurtuluş Cephesi," Türk Solu, , 8-10```
+
+ 

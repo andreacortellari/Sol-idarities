@@ -5,6 +5,10 @@ categories: [Articles]
 tags: []
 ---
 
-```"El Feth’in Açıklaması," Haftalık Ant Dergisi, , 2```
 
 
+| Cite this:   |
+|--------|
+| ```"El Feth’in Açıklaması," Haftalık Ant Dergisi, , 2```
+
+ 

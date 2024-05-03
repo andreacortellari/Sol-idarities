@@ -5,6 +5,10 @@ categories: [Articles]
 tags: []
 ---
 
-```"Milli şahsiyetiçin savaş," Türk Solu, , 14```
 
 
+| Cite this:   |
+|--------|
+| ```"Milli şahsiyetiçin savaş," Türk Solu, , 14```
+
+ 

@@ -5,6 +5,10 @@ categories: [Articles]
 tags: []
 ---
 
-```"Filistin’de Savaşın Öncülüğü Halka Geçiyor!," Haftalık Ant Dergisi, , 12-13```
 
 
+| Cite this:   |
+|--------|
+| ```"Filistin’de Savaşın Öncülüğü Halka Geçiyor!," Haftalık Ant Dergisi, , 12-13```
+
+ 

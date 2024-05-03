@@ -5,6 +5,10 @@ categories: [Articles]
 tags: []
 ---
 
-```"El Fetihe Katılan Gençlerin Bildirisi," Aydınlık Sosyalist Dergi, , 394-406```
 
 
+| Cite this:   |
+|--------|
+| ```"El Fetihe Katılan Gençlerin Bildirisi," Aydınlık Sosyalist Dergi, , 394-406```
+
+ 

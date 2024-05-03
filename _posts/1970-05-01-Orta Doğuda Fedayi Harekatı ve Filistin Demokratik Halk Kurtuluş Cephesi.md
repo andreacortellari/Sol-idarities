@@ -5,6 +5,10 @@ categories: [Articles]
 tags: []
 ---
 
-```"Orta Doğuda Fedayi Harekatı ve Filistin Demokratik Halk Kurtuluş Cephesi," Aydınlık Sosyalist Dergi, , 86-96```
 
 
+| Cite this:   |
+|--------|
+| ```"Orta Doğuda Fedayi Harekatı ve Filistin Demokratik Halk Kurtuluş Cephesi," Aydınlık Sosyalist Dergi, , 86-96```
+
+ 

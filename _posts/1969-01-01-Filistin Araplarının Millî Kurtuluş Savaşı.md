@@ -5,6 +5,10 @@ categories: [Articles]
 tags: []
 ---
 
-```"Filistin Araplarının Millî Kurtuluş Savaşı," Aydınlık Sosyalist Dergi, , 227-244```
 
 
+| Cite this:   |
+|--------|
+| ```"Filistin Araplarının Millî Kurtuluş Savaşı," Aydınlık Sosyalist Dergi, , 227-244```
+
+ 

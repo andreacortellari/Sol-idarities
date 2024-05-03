@@ -5,8 +5,6 @@ categories: [Articles]
 tags: []
 ---
 
-```"El Feth'e Niye Gittim?," Haftalık Ant Dergisi, , 6```
-
 Bugün Ortadoğu'da Amerikan imperyalizminin ileri karakolu olan İsrail'e karşı Arap halkları anti-emperyalist bir savaş yürütmektedirler. Bu savaş Asya’da, Afrika'da, Latin Amerika'da ve bütün dünyada emperyalizmin baskısı altında ezilen halkların yürüttüğü devrimci kavganın bir parcasi.
 
 Emperyalizme karşı yürütülen savaş, bütün dünya halklarının ortak savaşıdır. Vletnam'da, Ortadoğu'da, Latin Amerika'da emperyalizme karşı sıkılan her kurşun, aynızamanda Türkiye halkının kurtuluşu için sıkılmaktadır.
@@ -34,3 +32,9 @@ Bu oyunun düzenleyicileri — hakim çevreler tarafından açıklıkla bilinmel
 SAVAŞIMIZ, ÇAĞIMIZIN YÜZKARASI EMPERYALİZME VE ONUN İŞBİRLİKÇİLERİNE KARŞIDIR. EZİLEN DÜNYA HALKLARININ DİRENİŞİNİN BİR PARÇASIDIR.
 
 VE EMPERYALİZM, ORTADOĞU'DAN KOVULANA, DÜNYADAN YOKOLANA KADAR SÜRECEKTİR.
+
+| Cite this:   |
+|--------|
+| ```"El Feth'e Niye Gittim?," Haftalık Ant Dergisi, , 6```
+
+ 

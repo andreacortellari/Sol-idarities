@@ -5,6 +5,10 @@ categories: [Articles]
 tags: []
 ---
 
-```"Filistin’de Halk Savaşı Zafere Ulaşacaktır!," Aylık Ant Dergisi, , 2-5```
 
 
+| Cite this:   |
+|--------|
+| ```"Filistin’de Halk Savaşı Zafere Ulaşacaktır!," Aylık Ant Dergisi, , 2-5```
+
+ 

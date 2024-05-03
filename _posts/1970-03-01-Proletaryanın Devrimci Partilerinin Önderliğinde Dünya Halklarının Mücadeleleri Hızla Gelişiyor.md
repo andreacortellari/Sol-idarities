@@ -5,6 +5,10 @@ categories: [Articles]
 tags: []
 ---
 
-```"Proletaryanın Devrimci Partilerinin Önderliğinde Dünya Halklarının Mücadeleleri Hızla Gelişiyor," Proleter Devrimci Aydınlık, , 347-352```
 
 
+| Cite this:   |
+|--------|
+| ```"Proletaryanın Devrimci Partilerinin Önderliğinde Dünya Halklarının Mücadeleleri Hızla Gelişiyor," Proleter Devrimci Aydınlık, , 347-352```
+
+ 

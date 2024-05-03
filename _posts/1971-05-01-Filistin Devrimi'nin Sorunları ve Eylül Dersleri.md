@@ -5,8 +5,6 @@ categories: [Articles]
 tags: []
 ---
 
-```"Filistin Devrimi'nin Sorunları ve Eylül Dersleri," Aylık Ant Dergisi, , 77-82```
-
 f. d. h. k. c.nin filistin'deki son durum üzerine görüşü
 
 Filistin Demokratik Halk Kurtuluş Cephesi, Filistin - Ulusal Konseyi'nin çalışmalarının sonuçları konusundaki görüşünü ve değerlendirmesini, Nayif Havatme'nin El-Nehar Gazetesine verdiği demeçte belirtmiştir. Filistin'deki halk savaşının son durumuna da ışık tutan bu demecin tam metnini aynen sunuyoruz.
@@ -88,3 +86,9 @@ Benim kanımca Direnme Hareketi'nin şimdi içinde bulunduğu buhranın çözüm
 3 — Bunların mümkün olması için, Direnme Hareketi ve Ürdün Ulusal Hareketi ile Amman'daki egemen güçler arasındaki çelişkilerin çözümlenmesi için mücadele etmek. Bu mücadelenin, Direnme Hareketi'nin devam, etmesi ve silahlı bir halk ihtilaline dönüştürülmesi gerekliliğine inanan ulusal bir yönetimin kurulması amacına yönelmesi gereklidir.
 
 (Beyrut'ta yayınlanan haftalık El-Hürriyye Dergisi'nin 15 Mart 1971 tarihli sayısından çevrilmiştir.)
+
+| Cite this:   |
+|--------|
+| ```"Filistin Devrimi'nin Sorunları ve Eylül Dersleri," Aylık Ant Dergisi, , 77-82```
+
+ 

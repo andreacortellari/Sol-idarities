@@ -5,6 +5,10 @@ categories: [Articles]
 tags: []
 ---
 
-```"El Feth Gönüllüleri," Haftalık Ant Dergisi, , 3```
 
 
+| Cite this:   |
+|--------|
+| ```"El Feth Gönüllüleri," Haftalık Ant Dergisi, , 3```
+
+ 

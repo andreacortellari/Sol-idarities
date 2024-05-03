@@ -5,6 +5,10 @@ categories: [Articles]
 tags: []
 ---
 
-```"Filistin Halk Kurtuluş Cephesinde bölünmeler," Türk Solu, , 13```
 
 
+| Cite this:   |
+|--------|
+| ```"Filistin Halk Kurtuluş Cephesinde bölünmeler," Türk Solu, , 13```
+
+ 

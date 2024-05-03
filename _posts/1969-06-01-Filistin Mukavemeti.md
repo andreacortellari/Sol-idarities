@@ -5,6 +5,10 @@ categories: [Articles]
 tags: []
 ---
 
-```"Filistin Mukavemeti," Türk Solu, , 10-11```
 
 
+| Cite this:   |
+|--------|
+| ```"Filistin Mukavemeti," Türk Solu, , 10-11```
+
+ 

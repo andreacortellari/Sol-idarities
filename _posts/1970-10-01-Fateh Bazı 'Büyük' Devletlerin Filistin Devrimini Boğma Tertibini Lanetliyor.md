@@ -5,6 +5,10 @@ categories: [Articles]
 tags: []
 ---
 
-```"Fateh Bazı 'Büyük' Devletlerin Filistin Devrimini Boğma Tertibini Lanetliyor," Proleter Devrimci Aydınlık, , 425-426```
 
 
+| Cite this:   |
+|--------|
+| ```"Fateh Bazı 'Büyük' Devletlerin Filistin Devrimini Boğma Tertibini Lanetliyor," Proleter Devrimci Aydınlık, , 425-426```
+
+ 

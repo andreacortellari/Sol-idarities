@@ -5,6 +5,10 @@ categories: [Articles]
 tags: []
 ---
 
-```"Filistinde Emperyalizme Karşı Savaşan Örgütler," Haftalık Ant Dergisi, , 12-13```
 
 
+| Cite this:   |
+|--------|
+| ```"Filistinde Emperyalizme Karşı Savaşan Örgütler," Haftalık Ant Dergisi, , 12-13```
+
+ 

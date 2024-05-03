@@ -5,6 +5,10 @@ categories: [Articles]
 tags: []
 ---
 
-```"Tartışmanın Özü," Türk Solu, , 13```
 
 
+| Cite this:   |
+|--------|
+| ```"Tartışmanın Özü," Türk Solu, , 13```
+
+ 

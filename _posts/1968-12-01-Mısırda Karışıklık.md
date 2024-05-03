@@ -5,6 +5,10 @@ categories: [Articles]
 tags: []
 ---
 
-```"Mısırda Karışıklık," Kurtuluş Yolu, , 2```
 
 
+| Cite this:   |
+|--------|
+| ```"Mısırda Karışıklık," Kurtuluş Yolu, , 2```
+
+ 
