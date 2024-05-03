@@ -5,7 +5,7 @@ categories: [Books]
 tags: []
 ---
 
-In 2012, İletişim Yayınları published 'Mezopotamya Ekspresi: Bir Tarih Yolculuğu' by Yılmaz Çetiner.
+In 2012, İletişim Yayınları published 'Mezopotamya Ekspresi: Bir Tarih Yolculuğu' by Yılmaz Çetiner. The book is registered in [WorldCat](https://search.worldcat.org/title/841513332).
 
 
 | Cite this:   |

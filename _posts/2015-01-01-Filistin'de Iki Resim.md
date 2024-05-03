@@ -5,7 +5,7 @@ categories: [Books]
 tags: []
 ---
 
-In 2015, Nitelik Kitap published 'Filistin'de Iki Resim: Özgürlüğüm Esaretim ve Aşkım' by Yasar Küpeli.
+In 2015, Nitelik Kitap published 'Filistin'de Iki Resim: Özgürlüğüm Esaretim ve Aşkım' by Yasar Küpeli. The book is registered in [WorldCat](https://search.worldcat.org/title/1162993951).
 
 
 | Cite this:   |

@@ -5,7 +5,7 @@ categories: [Books]
 tags: []
 ---
 
-In 1979, Devrimci Sol published 'Fi̇li̇sti̇n Sorunu ve Fi̇li̇sti̇n Halk Kurtuluş Cephesi̇ - FHKC.
+In 1979, Devrimci Sol published 'Fi̇li̇sti̇n Sorunu ve Fi̇li̇sti̇n Halk Kurtuluş Cephesi̇ - FHKC. The book is registered in [WorldCat](https://search.worldcat.org/title/635222493).
 
 
 | Cite this:   |

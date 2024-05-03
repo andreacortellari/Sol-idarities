@@ -5,7 +5,7 @@ categories: [Books]
 tags: []
 ---
 
-In 2011, Can Yayınları published 'Bir Dönem İki Kadın: Birbirimizin Aynasinda' by Oya Baydar and Melek Ulagay.
+In 2011, Can Yayınları published 'Bir Dönem İki Kadın: Birbirimizin Aynasinda' by Oya Baydar and Melek Ulagay. The book is registered in [WorldCat](https://search.worldcat.org/title/719384715).
 
 
 | Cite this:   |

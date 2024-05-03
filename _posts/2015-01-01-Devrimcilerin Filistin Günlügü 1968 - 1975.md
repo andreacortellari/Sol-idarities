@@ -5,7 +5,7 @@ categories: [Books]
 tags: []
 ---
 
-In 2015, Ayrıntı Yayınları published 'Devrimcilerin Filistin Günlügü 1968 - 1975' by Oktay Duman.
+In 2015, Ayrıntı Yayınları published 'Devrimcilerin Filistin Günlügü 1968 - 1975' by Oktay Duman. The book is registered in [WorldCat](https://search.worldcat.org/title/1039323280).
 
 
 | Cite this:   |

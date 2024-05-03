@@ -5,7 +5,7 @@ categories: [Books]
 tags: []
 ---
 
-In 1970, Ant Yayınları  published 'Filistin'de Halk Savaşı ve Ortadoğu' by Nayif Havatme.
+In 1970, Ant Yayınları  published 'Filistin'de Halk Savaşı ve Ortadoğu' by Nayif Havatme. The book is registered in [WorldCat](https://search.worldcat.org/title/943197331).
 
 
 | Cite this:   |

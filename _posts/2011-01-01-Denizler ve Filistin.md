@@ -5,7 +5,7 @@ categories: [Books]
 tags: []
 ---
 
-In 2011, Alfa Yayınları published 'Denizler ve Filistin' by Turhan Feyizoğlu.
+In 2011, Alfa Yayınları published 'Denizler ve Filistin' by Turhan Feyizoğlu. The book is registered in [WorldCat](https://search.worldcat.org/title/750168283).
 
 
 | Cite this:   |

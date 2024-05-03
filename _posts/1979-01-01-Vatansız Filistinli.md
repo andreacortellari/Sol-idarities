@@ -5,11 +5,11 @@ categories: [Books]
 tags: []
 ---
 
-In 1979, Hür Yayın published 'Vatansız Filistinli: Ebu İyad. Filistin Gizli Servisleri Sorumlusu' by Eric Rouleau.
+In 1979, Hür Yayın published 'Vatansız Filistinli: Ebu İyad. Filistin Gizli Servisleri Sorumlusu' by Eric Rouleau and Aydın Emeç. The book is registered in [WorldCat](https://search.worldcat.org/title/71831822).
 
 
 | Cite this:   |
 |--------|
-| Eric Rouleau. Vatansız Filistinli. İstanbul: Hür Yayın, 1979
+| Eric Rouleau and Aydın Emeç. Vatansız Filistinli. İstanbul: Hür Yayın, 1979
 
  

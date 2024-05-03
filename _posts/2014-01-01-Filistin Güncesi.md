@@ -5,7 +5,7 @@ categories: [Books]
 tags: []
 ---
 
-In 2014, Ozan Yayincilik published 'Filistin Güncesi: Türkiye Devrimcilerinin Enternasyonalist Mücadelesi' by Hasan Mantıcı.
+In 2014, Ozan Yayincilik published 'Filistin Güncesi: Türkiye Devrimcilerinin Enternasyonalist Mücadelesi' by Hasan Mantıcı. The book is registered in [WorldCat](https://search.worldcat.org/title/919167449).
 
 
 | Cite this:   |
