@@ -5,6 +5,11 @@ categories: [Books]
 tags: []
 ---
 
-```A. Kadir Yaşargün. Filistin Fedaileri. İstanbul: Ozan Yayincilik, 2005```
+
 
 In 2005, Ozan Yayincilik published 'Filistin Fedaileri: Gazi Antep'ten Filistin'e Bir Dostluk ve Mücadele Öyküsü' by A. Kadir Yaşargün.
+| Cite this:   |
+|--------|
+| A. Kadir Yaşargün. Filistin Fedaileri. İstanbul: Ozan Yayincilik, 2005
+
+ 

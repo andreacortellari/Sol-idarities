@@ -5,6 +5,11 @@ categories: [Books]
 tags: []
 ---
 
-```Hasan Mantıcı. Filistin Güncesi. İstanbul: Ozan Yayincilik, 2014```
+
 
 In 2014, Ozan Yayincilik published 'Filistin Güncesi: Türkiye Devrimcilerinin Enternasyonalist Mücadelesi' by Hasan Mantıcı.
+| Cite this:   |
+|--------|
+| Hasan Mantıcı. Filistin Güncesi. İstanbul: Ozan Yayincilik, 2014
+
+ 

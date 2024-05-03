@@ -5,6 +5,11 @@ categories: [Books]
 tags: []
 ---
 
-```Yasar Küpeli. Filistin'de Iki Resim. Ankara: Nitelik Kitap, 2015```
+
 
 In 2015, Nitelik Kitap published 'Filistin'de Iki Resim: Özgürlüğüm Esaretim ve Aşkım' by Yasar Küpeli.
+| Cite this:   |
+|--------|
+| Yasar Küpeli. Filistin'de Iki Resim. Ankara: Nitelik Kitap, 2015
+
+ 

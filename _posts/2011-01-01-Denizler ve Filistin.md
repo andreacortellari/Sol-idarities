@@ -5,6 +5,11 @@ categories: [Books]
 tags: []
 ---
 
-```Turhan Feyizoğlu. Denizler ve Filistin. İstanbul: Alfa Yayınları, 2011```
+
 
 In 2011, Alfa Yayınları published 'Denizler ve Filistin' by Turhan Feyizoğlu.
+| Cite this:   |
+|--------|
+| Turhan Feyizoğlu. Denizler ve Filistin. İstanbul: Alfa Yayınları, 2011
+
+ 
