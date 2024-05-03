@@ -5,9 +5,9 @@ categories: [Books]
 tags: []
 ---
 
-
-
 In 2017, Ayrıntı Yayınları published 'Devrimcilerin Filistin Günlüğü 2 1976 - 1985' by Oktay Duman.
+
+
 | Cite this:   |
 |--------|
 | Oktay Duman. Devrimcilerin Filistin Günlüğü 2 1976 - 1985. İstanbul: Ayrıntı Yayınları, 2017

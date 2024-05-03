@@ -5,9 +5,9 @@ categories: [Books]
 tags: []
 ---
 
-
-
 In 2008, Ütopya Yayınevi published '12 Eylül ve Filistin Günlüğü' by Adil Okay.
+
+
 | Cite this:   |
 |--------|
 | Adil Okay. 12 Eylül ve Filistin Günlüğü. Ankara: Ütopya Yayınevi, 2008

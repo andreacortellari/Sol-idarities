@@ -5,9 +5,9 @@ categories: [Books]
 tags: []
 ---
 
-
-
 In 1976, May Yayınları published 'Direnen Filistin' by Cengiz Çandar.
+
+
 | Cite this:   |
 |--------|
 | Cengiz Çandar. Direnen Filistin. İstanbul: May Yayınları, 1976
