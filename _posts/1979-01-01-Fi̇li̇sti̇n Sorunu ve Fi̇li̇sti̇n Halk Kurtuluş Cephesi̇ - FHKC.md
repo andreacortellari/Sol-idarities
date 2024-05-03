@@ -7,4 +7,4 @@ tags: []
 
 ``` . Fi̇li̇sti̇n Sorunu ve Fi̇li̇sti̇n Halk Kurtuluş Cephesi̇ - FHKC. İstanbul: Devrimci Sol, 1979```
 
-In 1979, Devrimci Sol published 'Fi̇li̇sti̇n Sorunu ve Fi̇li̇sti̇n Halk Kurtuluş Cephesi̇ - FHKC' by  .
+In 1979, Devrimci Sol published 'Fi̇li̇sti̇n Sorunu ve Fi̇li̇sti̇n Halk Kurtuluş Cephesi̇ - FHKC'.
