@@ -1,18 +1,17 @@
-book_id	book_title	author	publication_year	publishing_house
-1	Fi̇li̇sti̇n Sorunu ve Fi̇li̇sti̇n Halk Kurtuluş Cephesi̇ - FHKC	 	1979	Devrimci Sol
-2	Filistin Fedaileri. Gazi Antep'ten Filistin'e Bir Dostluk ve Mücadele Öyküsü	A. Kadir Yaşargün	2005	
-3	Vatansız Filistinli Ebu İyad. Filistin Gizli Servisleri Sorumlusu	Eric Rouleau	1979	
-4	12 Eylül ve Filistin Günlüğü	Adil Okay	2008	
-5	Filistin Güncesi	Hasan Mantıcı	2014	
-6	Denizler ve Filistin	Turhan Feyizoğlu	2011	
-7	El Fateh	Yılmaz Çetiner	1970	
-8	Filistin'de Iki Resim	Yasar Küpeli	2015	
-9	Filistin'de Halk Savaşı ve Ortadoğu	Nayif Havatme	1970	
-10	Filistin Günlüğü	Cüneyt Kafkas	1990	
-11	Direnen Filistin	Cengiz Çandar	1976	
-12	Filistin Rüyası. İsrail Zindanlarında 7 Yıl	Faik Bulut	1996	
-13	Bir Dönem İki Kadın	Oya Baydar	2011	Can Yayınları
-14	Bir Dönem İki Kadın	Melek Ulagay	2011	Can Yayınları
-15	Devrimcilerin Filistin Günlügü 1968 - 1975	Oktay Duman	2015	Ayrıntı Yayınları
-16	Devrimcilerin Filistin Günlüğü 2 1976 - 1985	Oktay Duman	2017	Ayrıntı Yayınları
-17	Mezopotamya Ekspresi	Yılmaz Çetiner	2012	İletişim Yayınları
+book_id	book_title	book_subtitle	author	publishing_year	publishing_house	city_name
+4	12 Eylül ve Filistin Günlüğü		Adil Okay	2008	Ütopya Yayınevi	Ankara
+13	Bir Dönem İki Kadın	Birbirimizin Aynasinda	Oya Baydar and Melek Ulagay	2011	Can Yayınları	İstanbul
+6	Denizler ve Filistin		Turhan Feyizoğlu	2011	Alfa Yayınları	İstanbul
+15	Devrimcilerin Filistin Günlügü 1968 - 1975		Oktay Duman	2015	Ayrıntı Yayınları	İstanbul
+16	Devrimcilerin Filistin Günlüğü 2 1976 - 1985		Oktay Duman	2017	Ayrıntı Yayınları	İstanbul
+11	Direnen Filistin		Cengiz Çandar	1976	May Yayınları	İstanbul
+7	El Fateh	Yolum Kanım Adım Evim Adresim Filistin	Yılmaz Çetiner	1970	May Yayınları	İstanbul
+2	Filistin Fedaileri	Gazi Antep'ten Filistin'e Bir Dostluk ve Mücadele Öyküsü	A. Kadir Yaşargün	2005	Ozan Yayincilik	İstanbul
+5	Filistin Güncesi	Türkiye Devrimcilerinin Enternasyonalist Mücadelesi	Hasan Mantıcı	2014	Ozan Yayincilik	İstanbul
+10	Filistin Günlüğü		Cüneyt Kafkas	1990	A Yayınları	İstanbul
+12	Filistin Rüyası	İsrail Zindanlarında 7 Yıl	Faik Bulut	1996	Berfin Yayınları	İstanbul
+9	Filistin'de Halk Savaşı ve Ortadoğu		Nayif Havatme	1970	Ant Yayınları 	İstanbul
+8	Filistin'de Iki Resim	Özgürlüğüm Esaretim ve Aşkım	Yasar Küpeli	2015	Nitelik Kitap	Ankara
+1	Fi̇li̇sti̇n Sorunu ve Fi̇li̇sti̇n Halk Kurtuluş Cephesi̇ - FHKC		 	1979	Devrimci Sol	İstanbul
+17	Mezopotamya Ekspresi	Bir Tarih Yolculuğu	Yılmaz Çetiner	2012	İletişim Yayınları	İstanbul
+3	Vatansız Filistinli	Ebu İyad. Filistin Gizli Servisleri Sorumlusu	Eric Rouleau	1979	Hür Yayın	İstanbul

@@ -5,5 +5,6 @@ categories: [Books]
 tags: []
 ---
 
-```Nayif Havatme. Filistin'de Halk Savaşı ve Ortadoğu. İstanbul: , 1970```
+```Nayif Havatme. Filistin'de Halk Savaşı ve Ortadoğu. İstanbul: Ant Yayınları , 1970```
 
+In 1970, Ant Yayınları  published 'Filistin'de Halk Savaşı ve Ortadoğu' by Nayif Havatme.
