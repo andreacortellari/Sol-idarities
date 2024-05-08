@@ -5,9 +5,9 @@ categories: [Articles]
 tags: []
 ---
 
-
+nan
 
 | Cite this:   |
 |--------|
-| , "Filistin İkinci Dünya Kongresi," Proleter Devrimci Aydınlık, 10-24, 423-425 
+| "Filistin İkinci Dünya Kongresi." Proleter Devrimci Aydınlık 10-24 (1970): 423-425 
 

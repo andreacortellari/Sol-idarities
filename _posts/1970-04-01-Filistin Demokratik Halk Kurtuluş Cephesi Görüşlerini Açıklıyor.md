@@ -5,9 +5,9 @@ categories: [Articles]
 tags: []
 ---
 
-
+nan
 
 | Cite this:   |
 |--------|
-| , "Filistin Demokratik Halk Kurtuluş Cephesi Görüşlerini Açıklıyor," Türk Solu, 126, 15-16 
+| "Filistin Demokratik Halk Kurtuluş Cephesi Görüşlerini Açıklıyor." Türk Solu 126 (1970): 15-16 
 

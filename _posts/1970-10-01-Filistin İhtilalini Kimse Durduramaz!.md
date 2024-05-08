@@ -5,9 +5,9 @@ categories: [Articles]
 tags: []
 ---
 
-
+nan
 
 | Cite this:   |
 |--------|
-| , "Filistin İhtilalini Kimse Durduramaz!," Proleter Devrimci Aydınlık, 10-24, 417-423 
+| "Filistin İhtilalini Kimse Durduramaz!." Proleter Devrimci Aydınlık 10-24 (1970): 417-423 
 

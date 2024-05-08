@@ -5,9 +5,9 @@ categories: [Articles]
 tags: []
 ---
 
-
+nan
 
 | Cite this:   |
 |--------|
-| , "Filistin’de Marksist-Leninist Cephe!," Haftalık Ant Dergisi, 138, 8-9 
+| "Filistin’de Marksist-Leninist Cephe!." Haftalık Ant Dergisi 138 (1969): 8-9 
 

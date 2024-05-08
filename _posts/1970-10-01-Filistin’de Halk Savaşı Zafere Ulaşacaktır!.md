@@ -5,9 +5,9 @@ categories: [Articles]
 tags: []
 ---
 
-
+nan
 
 | Cite this:   |
 |--------|
-| , "Filistin’de Halk Savaşı Zafere Ulaşacaktır!," Aylık Ant Dergisi, 6, 2-5 
+| "Filistin’de Halk Savaşı Zafere Ulaşacaktır!." Aylık Ant Dergisi 6 (1970): 2-5 
 

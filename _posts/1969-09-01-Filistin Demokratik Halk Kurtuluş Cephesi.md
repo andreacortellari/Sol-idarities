@@ -5,9 +5,9 @@ categories: [Articles]
 tags: []
 ---
 
-
+nan
 
 | Cite this:   |
 |--------|
-| Mehmet Ali Cehşan, "Filistin Demokratik Halk Kurtuluş Cephesi," Türk Solu, 97, 8-10 
+| Cehşan, Mehmet Ali. "Filistin Demokratik Halk Kurtuluş Cephesi." Türk Solu 97 (1969): 8-10 
 

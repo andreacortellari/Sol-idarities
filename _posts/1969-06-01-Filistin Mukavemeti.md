@@ -5,9 +5,9 @@ categories: [Articles]
 tags: []
 ---
 
-
+nan
 
 | Cite this:   |
 |--------|
-| Gérard Chaliand, "Filistin Mukavemeti," Türk Solu, 81, 10-11 
+| Chaliand, Gérard. "Filistin Mukavemeti." Türk Solu 81 (1969): 10-11 
 

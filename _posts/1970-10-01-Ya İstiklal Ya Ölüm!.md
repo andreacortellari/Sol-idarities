@@ -5,9 +5,9 @@ categories: [Articles]
 tags: []
 ---
 
-
+nan
 
 | Cite this:   |
 |--------|
-| , "Ya İstiklal Ya Ölüm!," Kurtuluş, 5, 2 
+| "Ya İstiklal Ya Ölüm!." Kurtuluş 5 (1970): 2 
 

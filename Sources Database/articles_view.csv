@@ -1,17 +1,16 @@
-article_id	article_title	author_type	author	publication_title	issue_number	issue_date	pages	regular_feature_title	article_text
-33	11 Genç Tutuklandı			Haftalık Ant Dergisi	164	1970-02	3		
-12	Arap Halklarının Kurtuluş Mücadelesini Hiçbir Güç Durduramıyacaktır			Proleter Devrimci Aydınlık	9-23	1970-09	369-376		
-39	Arap Halklarının Savaşı Devam Edecek			Kurtuluş	5	1970-10	1		
-29	Arap-İsrail Çatışması	Author	Minu İnkaya	Kurtuluş Yolu	1	1968-12	2		
-13	Aydınlık'ta Dünya ve Türkiye			Aydınlık Sosyalist Dergi	1	1968-11	33-44	Aydınlık'ta Dünya ve Türkiye	
-14	Aydınlık'ta Dünya ve Türkiye			Aydınlık Sosyalist Dergi	3	1969-01	177-186	Aydınlık'ta Dünya ve Türkiye	
-15	Aydınlık'ta Dünya ve Türkiye			Aydınlık Sosyalist Dergi	4	1969-02	261-278	Aydınlık'ta Dünya ve Türkiye	
-16	Aydınlık'ta Dünya ve Türkiye			Aydınlık Sosyalist Dergi	6	1969-04	417-437	Aydınlık'ta Dünya ve Türkiye	
-3	Aydınlık'ta Dünya ve Türkiye			Aydınlık Sosyalist Dergi	24	1970-10	504-525	Aydınlık'ta Dünya ve Türkiye	
-35	El Feth Gönüllüleri			Haftalık Ant Dergisi	173	1970-04	3		
-17	El Feth ve Göçmenler	Author	Gérard Chaliand	Türk Solu	86	1969-07	15		
-18	El Feth ve Göçmenler	Author	Gérard Chaliand	Türk Solu	87	1969-07	15		
-10	El Feth'e Niye Gittim?	Author	Yusuf Aslan	Haftalık Ant Dergisi	165	1970-02	6		"Bugün Ortadoğu'da Amerikan imperyalizminin ileri karakolu olan İsrail'e karşı Arap halkları anti-emperyalist bir savaş yürütmektedirler. Bu savaş Asya’da, Afrika'da, Latin Amerika'da ve bütün dünyada emperyalizmin baskısı altında ezilen halkların yürüttüğü devrimci kavganın bir parcasi.
+article_id	article_title	author_type	author	publication_title	issue_number	issue_date	pages	regular_feature_title	cite	article_text
+33	11 Genç Tutuklandı			Haftalık Ant Dergisi	164	1970-02	3		"""11 Genç Tutuklandı."" Haftalık Ant Dergisi 164 (1970): 3"	
+12	Arap Halklarının Kurtuluş Mücadelesini Hiçbir Güç Durduramıyacaktır			Proleter Devrimci Aydınlık	9-23	1970-09	369-376		"""Arap Halklarının Kurtuluş Mücadelesini Hiçbir Güç Durduramıyacaktır."" Proleter Devrimci Aydınlık 9-23 (1970): 369-376"	
+39	Arap Halklarının Savaşı Devam Edecek			Kurtuluş	5	1970-10	1		"""Arap Halklarının Savaşı Devam Edecek."" Kurtuluş 5 (1970): 1"	
+29	Arap-İsrail Çatışması	Author	Minu İnkaya	Kurtuluş Yolu	1	1968-12	2		"İnkaya, Minu. ""Arap-İsrail Çatışması."" Kurtuluş Yolu 1 (1968): 2"	
+14	Aydınlık'ta Dünya ve Türkiye			Aydınlık Sosyalist Dergi	3	1969-01	177-186	Aydınlık'ta Dünya ve Türkiye	"""Aydınlık'ta Dünya ve Türkiye."" Aydınlık Sosyalist Dergi 3 (1969): 177-186"	
+15	Aydınlık'ta Dünya ve Türkiye			Aydınlık Sosyalist Dergi	4	1969-02	261-278	Aydınlık'ta Dünya ve Türkiye	"""Aydınlık'ta Dünya ve Türkiye."" Aydınlık Sosyalist Dergi 4 (1969): 261-278"	
+16	Aydınlık'ta Dünya ve Türkiye			Aydınlık Sosyalist Dergi	6	1969-04	417-437	Aydınlık'ta Dünya ve Türkiye	"""Aydınlık'ta Dünya ve Türkiye."" Aydınlık Sosyalist Dergi 6 (1969): 417-437"	
+3	Aydınlık'ta Dünya ve Türkiye			Aydınlık Sosyalist Dergi	24	1970-10	504-525	Aydınlık'ta Dünya ve Türkiye	"""Aydınlık'ta Dünya ve Türkiye."" Aydınlık Sosyalist Dergi 24 (1970): 504-525"	
+35	El Feth Gönüllüleri			Haftalık Ant Dergisi	173	1970-04	3		"""El Feth Gönüllüleri."" Haftalık Ant Dergisi 173 (1970): 3"	
+17	El Feth ve Göçmenler	Author	Gérard Chaliand	Türk Solu	86	1969-07	15		"Chaliand, Gérard. ""El Feth ve Göçmenler."" Türk Solu 86 (1969): 15"	
+18	El Feth ve Göçmenler	Author	Gérard Chaliand	Türk Solu	87	1969-07	15		"Chaliand, Gérard. ""El Feth ve Göçmenler."" Türk Solu 87 (1969): 15"	
+10	El Feth'e Niye Gittim?	Author	Yusuf Aslan	Haftalık Ant Dergisi	165	1970-02	6		"Aslan, Yusuf. ""El Feth'e Niye Gittim?."" Haftalık Ant Dergisi 165 (1970): 6"	"Bugün Ortadoğu'da Amerikan imperyalizminin ileri karakolu olan İsrail'e karşı Arap halkları anti-emperyalist bir savaş yürütmektedirler. Bu savaş Asya’da, Afrika'da, Latin Amerika'da ve bütün dünyada emperyalizmin baskısı altında ezilen halkların yürüttüğü devrimci kavganın bir parcasi.
 
 Emperyalizme karşı yürütülen savaş, bütün dünya halklarının ortak savaşıdır. Vletnam'da, Ortadoğu'da, Latin Amerika'da emperyalizme karşı sıkılan her kurşun, aynızamanda Türkiye halkının kurtuluşu için sıkılmaktadır.
 
@@ -38,16 +37,16 @@ Bu oyunun düzenleyicileri — hakim çevreler tarafından açıklıkla bilinmel
 SAVAŞIMIZ, ÇAĞIMIZIN YÜZKARASI EMPERYALİZME VE ONUN İŞBİRLİKÇİLERİNE KARŞIDIR. EZİLEN DÜNYA HALKLARININ DİRENİŞİNİN BİR PARÇASIDIR.
 
 VE EMPERYALİZM, ORTADOĞU'DAN KOVULANA, DÜNYADAN YOKOLANA KADAR SÜRECEKTİR."
-34	El Feth’in Açıklaması			Haftalık Ant Dergisi	164	1970-02	2		
-19	El Feth’in Zaferi	Author	Gérard Chaliand	Türk Solu	82	1969-06	12		
-36	El Fetihe Katılan Gençlerin Bildirisi			Aydınlık Sosyalist Dergi	17	1970-03	394-406	Aydınlık'ta Dünya ve Türkiye	
-31	Emperyalizmin ve Kapitalizm Mutlaka Yok Edilecektir			Kurtuluş Yolu	9	1970-06	3		
-2	Fateh Bazı 'Büyük' Devletlerin Filistin Devrimini Boğma Tertibini Lanetliyor			Proleter Devrimci Aydınlık	10-24	1970-10	425-426		
-6	Filistin Araplarının Millî Kurtuluş Savaşı	Author	Erdoğan Güçbilmez	Aydınlık Sosyalist Dergi	3	1969-01	227-244		
-41	Filistin Demokratik Halk Kurtuluş Cephesi	Author	Mehmet Ali Cehşan	Türk Solu	97	1969-09	8-10		
-37	Filistin Demokratik Halk Kurtuluş Cephesi			Haftalık Ant Dergisi	158	1970-01	13		
-47	Filistin Demokratik Halk Kurtuluş Cephesi Görüşlerini Açıklıyor			Türk Solu	126	1970-04	15-16		
-1	Filistin Devrimi'nin Sorunları ve Eylül Dersleri	Author	Nayif Havatme	Aylık Ant Dergisi	13	1971-05	77-82		"f. d. h. k. c.nin filistin'deki son durum üzerine görüşü
+34	El Feth’in Açıklaması			Haftalık Ant Dergisi	164	1970-02	2		"""El Feth’in Açıklaması."" Haftalık Ant Dergisi 164 (1970): 2"	
+19	El Feth’in Zaferi	Author	Gérard Chaliand	Türk Solu	82	1969-06	12		"Chaliand, Gérard. ""El Feth’in Zaferi."" Türk Solu 82 (1969): 12"	
+36	El Fetihe Katılan Gençlerin Bildirisi			Aydınlık Sosyalist Dergi	17	1970-03	394-406	Aydınlık'ta Dünya ve Türkiye	"""El Fetihe Katılan Gençlerin Bildirisi."" Aydınlık Sosyalist Dergi 17 (1970): 394-406"	
+31	Emperyalizmin ve Kapitalizm Mutlaka Yok Edilecektir			Kurtuluş Yolu	9	1970-06	3		"""Emperyalizmin ve Kapitalizm Mutlaka Yok Edilecektir."" Kurtuluş Yolu 9 (1970): 3"	
+2	Fateh Bazı 'Büyük' Devletlerin Filistin Devrimini Boğma Tertibini Lanetliyor			Proleter Devrimci Aydınlık	10-24	1970-10	425-426		"""Fateh Bazı 'Büyük' Devletlerin Filistin Devrimini Boğma Tertibini Lanetliyor."" Proleter Devrimci Aydınlık 10-24 (1970): 425-426"	
+6	Filistin Araplarının Millî Kurtuluş Savaşı	Author	Erdoğan Güçbilmez	Aydınlık Sosyalist Dergi	3	1969-01	227-244		"Güçbilmez, Erdoğan. ""Filistin Araplarının Millî Kurtuluş Savaşı."" Aydınlık Sosyalist Dergi 3 (1969): 227-244"	
+41	Filistin Demokratik Halk Kurtuluş Cephesi	Author	Mehmet Ali Cehşan	Türk Solu	97	1969-09	8-10		"Cehşan, Mehmet Ali. ""Filistin Demokratik Halk Kurtuluş Cephesi."" Türk Solu 97 (1969): 8-10"	
+37	Filistin Demokratik Halk Kurtuluş Cephesi			Haftalık Ant Dergisi	158	1970-01	13		"""Filistin Demokratik Halk Kurtuluş Cephesi."" Haftalık Ant Dergisi 158 (1970): 13"	
+47	Filistin Demokratik Halk Kurtuluş Cephesi Görüşlerini Açıklıyor			Türk Solu	126	1970-04	15-16		"""Filistin Demokratik Halk Kurtuluş Cephesi Görüşlerini Açıklıyor."" Türk Solu 126 (1970): 15-16"	
+1	Filistin Devrimi'nin Sorunları ve Eylül Dersleri	Author	Nayif Havatme	Aylık Ant Dergisi	13	1971-05	77-82		"Havatme, Nayif. ""Filistin Devrimi'nin Sorunları ve Eylül Dersleri."" Aylık Ant Dergisi 13 (1971): 77-82"	"f. d. h. k. c.nin filistin'deki son durum üzerine görüşü
 
 Filistin Demokratik Halk Kurtuluş Cephesi, Filistin - Ulusal Konseyi'nin çalışmalarının sonuçları konusundaki görüşünü ve değerlendirmesini, Nayif Havatme'nin El-Nehar Gazetesine verdiği demeçte belirtmiştir. Filistin'deki halk savaşının son durumuna da ışık tutan bu demecin tam metnini aynen sunuyoruz.
 
@@ -128,26 +127,27 @@ Benim kanımca Direnme Hareketi'nin şimdi içinde bulunduğu buhranın çözüm
 3 — Bunların mümkün olması için, Direnme Hareketi ve Ürdün Ulusal Hareketi ile Amman'daki egemen güçler arasındaki çelişkilerin çözümlenmesi için mücadele etmek. Bu mücadelenin, Direnme Hareketi'nin devam, etmesi ve silahlı bir halk ihtilaline dönüştürülmesi gerekliliğine inanan ulusal bir yönetimin kurulması amacına yönelmesi gereklidir.
 
 (Beyrut'ta yayınlanan haftalık El-Hürriyye Dergisi'nin 15 Mart 1971 tarihli sayısından çevrilmiştir.)"
-20	Filistin Halk Kurtuluş Cephesinde bölünmeler	Author	Gérard Chaliand	Türk Solu	85	1969-07	13		
-21	Filistin Mukavemeti	Author	Gérard Chaliand	Türk Solu	81	1969-06	10-11		
-4	Filistin İhtilalini Kimse Durduramaz!			Proleter Devrimci Aydınlık	10-24	1970-10	417-423		
-5	Filistin İkinci Dünya Kongresi			Proleter Devrimci Aydınlık	10-24	1970-10	423-425		
-46	Filistinde Emperyalizme Karşı Savaşan Örgütler			Haftalık Ant Dergisi	164	1970-02	12-13		
-44	Filistin’de Halk Savaşı Zafere Ulaşacaktır!			Aylık Ant Dergisi	6	1970-10	2-5		
-43	Filistin’de Marksist-Leninist Cephe!			Haftalık Ant Dergisi	138	1969-08	8-9		
-42	Filistin’de Savaşın Öncülüğü Halka Geçiyor!			Haftalık Ant Dergisi	127	1969-06	12-13		
-38	Halk Savaşı			Kurtuluş	4	1970-08	2		
-22	Haziran 1967 den Sonra	Author	Gérard Chaliand	Türk Solu	83	1969-06	14		
-8	Küçük Burjuvazinin Hezimeti ve Filistin Halk Savaşı	Translator	Mehmet Emin Bozarslan	Aylık Ant Dergisi	2	1970-06	75-84		
-9	Küçük Burjuvazinin Hezimeti ve Filistin Halk Savaşı	Author	Nayif Havatme	Aylık Ant Dergisi	2	1970-06	75-84		
-48	Lübnan Dar Boğazlara Sürükleniyor			Emek	16		14		
-23	Milli şahsiyetiçin savaş	Author	Gérard Chaliand	Türk Solu	84	1969-06	14		
-30	Mısırda Karışıklık			Kurtuluş Yolu	2	1968-12	2		
-45	Nayif Havatmeh Kimdir?			Haftalık Ant Dergisi	164	1970-02	12		
-11	Orta Doğuda Fedayi Harekatı ve Filistin Demokratik Halk Kurtuluş Cephesi	Author	A. Kerim 	Aydınlık Sosyalist Dergi	19	1970-05	86-96		
-32	Proletaryanın Devrimci Partilerinin Önderliğinde Dünya Halklarının Mücadeleleri Hızla Gelişiyor			Proleter Devrimci Aydınlık	3-17	1970-03	347-352		
-24	Tartışmanın Özü	Author	Gérard Chaliand	Türk Solu	89	1969-07	13		
-40	Ya İstiklal Ya Ölüm!			Kurtuluş	5	1970-10	2		
-27	Ürdün			Kurtuluş Yolu	2	1968-12	2		
-26	Ürdün			Kurtuluş Yolu	3	1969-01	2		
-25	Ürdün'de Halk Savaşı			DİSK Gazetesi (2)	3	1970-10	1-3		
+20	Filistin Halk Kurtuluş Cephesinde bölünmeler	Author	Gérard Chaliand	Türk Solu	85	1969-07	13		"Chaliand, Gérard. ""Filistin Halk Kurtuluş Cephesinde bölünmeler."" Türk Solu 85 (1969): 13"	
+21	Filistin Mukavemeti	Author	Gérard Chaliand	Türk Solu	81	1969-06	10-11		"Chaliand, Gérard. ""Filistin Mukavemeti."" Türk Solu 81 (1969): 10-11"	
+4	Filistin İhtilalini Kimse Durduramaz!			Proleter Devrimci Aydınlık	10-24	1970-10	417-423		"""Filistin İhtilalini Kimse Durduramaz!."" Proleter Devrimci Aydınlık 10-24 (1970): 417-423"	
+5	Filistin İkinci Dünya Kongresi			Proleter Devrimci Aydınlık	10-24	1970-10	423-425		"""Filistin İkinci Dünya Kongresi."" Proleter Devrimci Aydınlık 10-24 (1970): 423-425"	
+46	Filistinde Emperyalizme Karşı Savaşan Örgütler			Haftalık Ant Dergisi	164	1970-02	12-13		"""Filistinde Emperyalizme Karşı Savaşan Örgütler."" Haftalık Ant Dergisi 164 (1970): 12-13"	
+44	Filistin’de Halk Savaşı Zafere Ulaşacaktır!			Aylık Ant Dergisi	6	1970-10	2-5		"""Filistin’de Halk Savaşı Zafere Ulaşacaktır!."" Aylık Ant Dergisi 6 (1970): 2-5"	
+43	Filistin’de Marksist-Leninist Cephe!			Haftalık Ant Dergisi	138	1969-08	8-9		"""Filistin’de Marksist-Leninist Cephe!."" Haftalık Ant Dergisi 138 (1969): 8-9"	
+42	Filistin’de Savaşın Öncülüğü Halka Geçiyor!			Haftalık Ant Dergisi	127	1969-06	12-13		"""Filistin’de Savaşın Öncülüğü Halka Geçiyor!."" Haftalık Ant Dergisi 127 (1969): 12-13"	
+38	Halk Savaşı			Kurtuluş	4	1970-08	2		"""Halk Savaşı."" Kurtuluş 4 (1970): 2"	
+22	Haziran 1967 den Sonra	Author	Gérard Chaliand	Türk Solu	83	1969-06	14		"Chaliand, Gérard. ""Haziran 1967 den Sonra."" Türk Solu 83 (1969): 14"	
+8	Küçük Burjuvazinin Hezimeti ve Filistin Halk Savaşı	Translator	Mehmet Emin Bozarslan	Aylık Ant Dergisi	2	1970-06	75-84		"Bozarslan, Mehmet Emin. ""Küçük Burjuvazinin Hezimeti ve Filistin Halk Savaşı."" Aylık Ant Dergisi 2 (1970): 75-84"	
+9	Küçük Burjuvazinin Hezimeti ve Filistin Halk Savaşı	Author	Nayif Havatme	Aylık Ant Dergisi	2	1970-06	75-84		"Havatme, Nayif. ""Küçük Burjuvazinin Hezimeti ve Filistin Halk Savaşı."" Aylık Ant Dergisi 2 (1970): 75-84"	
+48	Lübnan Dar Boğazlara Sürükleniyor			Emek	16		14			
+23	Milli şahsiyetiçin savaş	Author	Gérard Chaliand	Türk Solu	84	1969-06	14		"Chaliand, Gérard. ""Milli şahsiyetiçin savaş."" Türk Solu 84 (1969): 14"	
+30	Mısırda Karışıklık			Kurtuluş Yolu	2	1968-12	2		"""Mısırda Karışıklık."" Kurtuluş Yolu 2 (1968): 2"	
+45	Nayif Havatmeh Kimdir?			Haftalık Ant Dergisi	164	1970-02	12		"""Nayif Havatmeh Kimdir?."" Haftalık Ant Dergisi 164 (1970): 12"	
+11	Orta Doğuda Fedayi Harekatı ve Filistin Demokratik Halk Kurtuluş Cephesi	Author	A. Kerim 	Aydınlık Sosyalist Dergi	19	1970-05	86-96		"A. Kerim. ""Orta Doğuda Fedayi Harekatı ve Filistin Demokratik Halk Kurtuluş Cephesi."" Aydınlık Sosyalist Dergi 19 (1970): 86-96"	
+13	Ortadoğu ve El Fetih			Aydınlık Sosyalist Dergi	1	1968-11	40-41	Aydınlık'ta Dünya ve Türkiye	"""Ortadoğu ve El Fetih."" Aydınlık Sosyalist Dergi 1 (1968): 40-41"	
+32	Proletaryanın Devrimci Partilerinin Önderliğinde Dünya Halklarının Mücadeleleri Hızla Gelişiyor			Proleter Devrimci Aydınlık	3-17	1970-03	347-352		"""Proletaryanın Devrimci Partilerinin Önderliğinde Dünya Halklarının Mücadeleleri Hızla Gelişiyor."" Proleter Devrimci Aydınlık 3-17 (1970): 347-352"	
+24	Tartışmanın Özü	Author	Gérard Chaliand	Türk Solu	89	1969-07	13		"Chaliand, Gérard. ""Tartışmanın Özü."" Türk Solu 89 (1969): 13"	
+40	Ya İstiklal Ya Ölüm!			Kurtuluş	5	1970-10	2		"""Ya İstiklal Ya Ölüm!."" Kurtuluş 5 (1970): 2"	
+27	Ürdün			Kurtuluş Yolu	2	1968-12	2		"""Ürdün."" Kurtuluş Yolu 2 (1968): 2"	
+26	Ürdün			Kurtuluş Yolu	3	1969-01	2		"""Ürdün."" Kurtuluş Yolu 3 (1969): 2"	
+25	Ürdün'de Halk Savaşı			DİSK Gazetesi (2)	3	1970-10	1-3		"""Ürdün'de Halk Savaşı."" DİSK Gazetesi (2) 3 (1970): 1-3"	

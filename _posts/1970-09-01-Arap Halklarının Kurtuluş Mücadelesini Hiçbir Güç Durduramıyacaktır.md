@@ -5,9 +5,9 @@ categories: [Articles]
 tags: []
 ---
 
-
+nan
 
 | Cite this:   |
 |--------|
-| , "Arap Halklarının Kurtuluş Mücadelesini Hiçbir Güç Durduramıyacaktır," Proleter Devrimci Aydınlık, 9-23, 369-376 
+| "Arap Halklarının Kurtuluş Mücadelesini Hiçbir Güç Durduramıyacaktır." Proleter Devrimci Aydınlık 9-23 (1970): 369-376 
 

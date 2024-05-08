@@ -5,9 +5,9 @@ categories: [Articles]
 tags: []
 ---
 
-
+nan
 
 | Cite this:   |
 |--------|
-| , "Filistin Demokratik Halk Kurtuluş Cephesi," Haftalık Ant Dergisi, 158, 13 
+| "Filistin Demokratik Halk Kurtuluş Cephesi." Haftalık Ant Dergisi 158 (1970): 13 
 

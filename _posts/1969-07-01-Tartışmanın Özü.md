@@ -5,9 +5,9 @@ categories: [Articles]
 tags: []
 ---
 
-
+nan
 
 | Cite this:   |
 |--------|
-| Gérard Chaliand, "Tartışmanın Özü," Türk Solu, 89, 13 
+| Chaliand, Gérard. "Tartışmanın Özü." Türk Solu 89 (1969): 13 
 

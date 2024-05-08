@@ -89,5 +89,5 @@ Benim kanımca Direnme Hareketi'nin şimdi içinde bulunduğu buhranın çözüm
 
 | Cite this:   |
 |--------|
-| Nayif Havatme, "Filistin Devrimi'nin Sorunları ve Eylül Dersleri," Aylık Ant Dergisi, 13, 77-82 
+| Havatme, Nayif. "Filistin Devrimi'nin Sorunları ve Eylül Dersleri." Aylık Ant Dergisi 13 (1971): 77-82 
 

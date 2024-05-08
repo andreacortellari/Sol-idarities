@@ -5,9 +5,9 @@ categories: [Articles]
 tags: []
 ---
 
-
+nan
 
 | Cite this:   |
 |--------|
-| Minu İnkaya, "Arap-İsrail Çatışması," Kurtuluş Yolu, 1, 2 
+| İnkaya, Minu. "Arap-İsrail Çatışması." Kurtuluş Yolu 1 (1968): 2 
 

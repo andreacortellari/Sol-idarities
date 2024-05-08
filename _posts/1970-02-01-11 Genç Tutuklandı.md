@@ -5,9 +5,9 @@ categories: [Articles]
 tags: []
 ---
 
-
+nan
 
 | Cite this:   |
 |--------|
-| , "11 Genç Tutuklandı," Haftalık Ant Dergisi, 164, 3 
+| "11 Genç Tutuklandı." Haftalık Ant Dergisi 164 (1970): 3 
 

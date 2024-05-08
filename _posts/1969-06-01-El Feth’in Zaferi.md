@@ -5,9 +5,9 @@ categories: [Articles]
 tags: []
 ---
 
-
+nan
 
 | Cite this:   |
 |--------|
-| Gérard Chaliand, "El Feth’in Zaferi," Türk Solu, 82, 12 
+| Chaliand, Gérard. "El Feth’in Zaferi." Türk Solu 82 (1969): 12 
 

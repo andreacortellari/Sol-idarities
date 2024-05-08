@@ -5,9 +5,9 @@ categories: [Articles]
 tags: []
 ---
 
-
+nan
 
 | Cite this:   |
 |--------|
-| A. Kerim , "Orta Doğuda Fedayi Harekatı ve Filistin Demokratik Halk Kurtuluş Cephesi," Aydınlık Sosyalist Dergi, 19, 86-96 
+| A. Kerim. "Orta Doğuda Fedayi Harekatı ve Filistin Demokratik Halk Kurtuluş Cephesi." Aydınlık Sosyalist Dergi 19 (1970): 86-96 
 

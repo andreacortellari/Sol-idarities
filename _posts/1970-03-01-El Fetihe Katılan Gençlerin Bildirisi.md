@@ -5,9 +5,9 @@ categories: [Articles]
 tags: []
 ---
 
-
+nan
 
 | Cite this:   |
 |--------|
-| , "El Fetihe Katılan Gençlerin Bildirisi," Aydınlık Sosyalist Dergi, 17, 394-406 
+| "El Fetihe Katılan Gençlerin Bildirisi." Aydınlık Sosyalist Dergi 17 (1970): 394-406 
 

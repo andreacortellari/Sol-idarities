@@ -5,9 +5,9 @@ categories: [Articles]
 tags: []
 ---
 
-
+nan
 
 | Cite this:   |
 |--------|
-| , "Arap Halklarının Savaşı Devam Edecek," Kurtuluş, 5, 1 
+| "Arap Halklarının Savaşı Devam Edecek." Kurtuluş 5 (1970): 1 
 

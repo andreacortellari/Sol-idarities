@@ -5,9 +5,9 @@ categories: [Articles]
 tags: []
 ---
 
-
+nan
 
 | Cite this:   |
 |--------|
-| , "Aydınlık'ta Dünya ve Türkiye," Aydınlık Sosyalist Dergi, 6, 417-437 
+| "Aydınlık'ta Dünya ve Türkiye." Aydınlık Sosyalist Dergi 6 (1969): 417-437 
 

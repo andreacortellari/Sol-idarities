@@ -5,9 +5,9 @@ categories: [Articles]
 tags: []
 ---
 
-
+nan
 
 | Cite this:   |
 |--------|
-| , "Nayif Havatmeh Kimdir?," Haftalık Ant Dergisi, 164, 12 
+| "Nayif Havatmeh Kimdir?." Haftalık Ant Dergisi 164 (1970): 12 
 

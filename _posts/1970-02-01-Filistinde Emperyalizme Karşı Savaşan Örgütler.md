@@ -5,9 +5,9 @@ categories: [Articles]
 tags: []
 ---
 
-
+nan
 
 | Cite this:   |
 |--------|
-| , "Filistinde Emperyalizme Karşı Savaşan Örgütler," Haftalık Ant Dergisi, 164, 12-13 
+| "Filistinde Emperyalizme Karşı Savaşan Örgütler." Haftalık Ant Dergisi 164 (1970): 12-13 
 

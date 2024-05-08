@@ -5,9 +5,9 @@ categories: [Articles]
 tags: []
 ---
 
-
+nan
 
 | Cite this:   |
 |--------|
-| Gérard Chaliand, "Milli şahsiyetiçin savaş," Türk Solu, 84, 14 
+| Chaliand, Gérard. "Milli şahsiyetiçin savaş." Türk Solu 84 (1969): 14 
 

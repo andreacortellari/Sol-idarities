@@ -5,9 +5,9 @@ categories: [Articles]
 tags: []
 ---
 
-
+nan
 
 | Cite this:   |
 |--------|
-| , "Ürdün'de Halk Savaşı," DİSK Gazetesi (2), 3, 1-3 
+| "Ürdün'de Halk Savaşı." DİSK Gazetesi (2) 3 (1970): 1-3 
 

@@ -5,9 +5,9 @@ categories: [Articles]
 tags: []
 ---
 
-
+nan
 
 | Cite this:   |
 |--------|
-| Gérard Chaliand, "Haziran 1967 den Sonra," Türk Solu, 83, 14 
+| Chaliand, Gérard. "Haziran 1967 den Sonra." Türk Solu 83 (1969): 14 
 

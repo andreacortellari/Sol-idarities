@@ -5,9 +5,9 @@ categories: [Articles]
 tags: []
 ---
 
-
+nan
 
 | Cite this:   |
 |--------|
-| Gérard Chaliand, "Filistin Halk Kurtuluş Cephesinde bölünmeler," Türk Solu, 85, 13 
+| Chaliand, Gérard. "Filistin Halk Kurtuluş Cephesinde bölünmeler." Türk Solu 85 (1969): 13 
 

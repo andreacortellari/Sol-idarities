@@ -5,9 +5,9 @@ categories: [Articles]
 tags: []
 ---
 
-
+nan
 
 | Cite this:   |
 |--------|
-| Gérard Chaliand, "El Feth ve Göçmenler," Türk Solu, 87, 15 
+| Chaliand, Gérard. "El Feth ve Göçmenler." Türk Solu 87 (1969): 15 
 

@@ -5,9 +5,9 @@ categories: [Articles]
 tags: []
 ---
 
-
+nan
 
 | Cite this:   |
 |--------|
-| , "Mısırda Karışıklık," Kurtuluş Yolu, 2, 2 
+| "Mısırda Karışıklık." Kurtuluş Yolu 2 (1968): 2 
 

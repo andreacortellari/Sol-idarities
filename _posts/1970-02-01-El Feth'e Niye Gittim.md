@@ -35,5 +35,5 @@ VE EMPERYALİZM, ORTADOĞU'DAN KOVULANA, DÜNYADAN YOKOLANA KADAR SÜRECEKTİR.
 
 | Cite this:   |
 |--------|
-| Yusuf Aslan, "El Feth'e Niye Gittim?," Haftalık Ant Dergisi, 165, 6 
+| Aslan, Yusuf. "El Feth'e Niye Gittim?." Haftalık Ant Dergisi 165 (1970): 6 
 

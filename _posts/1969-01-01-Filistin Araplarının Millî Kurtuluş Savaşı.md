@@ -5,9 +5,9 @@ categories: [Articles]
 tags: []
 ---
 
-
+nan
 
 | Cite this:   |
 |--------|
-| Erdoğan Güçbilmez, "Filistin Araplarının Millî Kurtuluş Savaşı," Aydınlık Sosyalist Dergi, 3, 227-244 
+| Güçbilmez, Erdoğan. "Filistin Araplarının Millî Kurtuluş Savaşı." Aydınlık Sosyalist Dergi 3 (1969): 227-244 
 

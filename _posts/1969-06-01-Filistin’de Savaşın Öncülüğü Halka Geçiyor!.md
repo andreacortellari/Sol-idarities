@@ -5,9 +5,9 @@ categories: [Articles]
 tags: []
 ---
 
-
+nan
 
 | Cite this:   |
 |--------|
-| , "Filistin’de Savaşın Öncülüğü Halka Geçiyor!," Haftalık Ant Dergisi, 127, 12-13 
+| "Filistin’de Savaşın Öncülüğü Halka Geçiyor!." Haftalık Ant Dergisi 127 (1969): 12-13 
 
