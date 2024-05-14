@@ -5,6 +5,10 @@ categories: [Articles]
 tags: []
 ---
 
+An article titled 'Filistin Araplarının Millî Kurtuluş Savaşı' was published in Aydınlık Sosyalist Dergi in 1969-01-01. The magazine can be accessed on [TÜSTAV](https://www.tustav.org/sureli-yayinlar-arsivi/aydinlik/).
+
+✪ ✪ ✪ ✪
+
 
 
 | Cite this:   |

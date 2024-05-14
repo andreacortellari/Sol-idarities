@@ -5,6 +5,10 @@ categories: [Articles]
 tags: []
 ---
 
+An article titled 'Ürdün'de Halk Savaşı' was published in DİSK Gazetesi (2) in 1970-10-01. The magazine can be accessed on [TÜSTAV](https://www.tustav.org/sureli-yayinlar-arsivi/disk-gazetesi/).
+
+✪ ✪ ✪ ✪
+
 
 
 | Cite this:   |

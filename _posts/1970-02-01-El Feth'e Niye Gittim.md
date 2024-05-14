@@ -5,6 +5,10 @@ categories: [Articles]
 tags: []
 ---
 
+An article titled 'El Feth'e Niye Gittim?' was published in Haftalık Ant Dergisi in 1970-02-01. The magazine can be accessed on [TÜSTAV](https://www.tustav.org/sureli-yayinlar-arsivi/ant-dergisi/).
+
+✪ ✪ ✪ ✪
+
 Bugün Ortadoğu'da Amerikan imperyalizminin ileri karakolu olan İsrail'e karşı Arap halkları anti-emperyalist bir savaş yürütmektedirler. Bu savaş Asya’da, Afrika'da, Latin Amerika'da ve bütün dünyada emperyalizmin baskısı altında ezilen halkların yürüttüğü devrimci kavganın bir parcasi.
 
 Emperyalizme karşı yürütülen savaş, bütün dünya halklarının ortak savaşıdır. Vletnam'da, Ortadoğu'da, Latin Amerika'da emperyalizme karşı sıkılan her kurşun, aynızamanda Türkiye halkının kurtuluşu için sıkılmaktadır.

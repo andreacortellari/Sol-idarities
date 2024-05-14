@@ -5,6 +5,10 @@ categories: [Articles]
 tags: []
 ---
 
+An article titled '11 Genç Tutuklandı' was published in Haftalık Ant Dergisi in 1970-02-01. The magazine can be accessed on [TÜSTAV](https://www.tustav.org/sureli-yayinlar-arsivi/ant-dergisi/).
+
+✪ ✪ ✪ ✪
+
 
 
 | Cite this:   |

@@ -5,6 +5,10 @@ categories: [Articles]
 tags: []
 ---
 
+An article titled 'Filistin’de Marksist-Leninist Cephe!' was published in Haftalık Ant Dergisi in 1969-08-01. The magazine can be accessed on [TÜSTAV](https://www.tustav.org/sureli-yayinlar-arsivi/ant-dergisi/).
+
+✪ ✪ ✪ ✪
+
 
 
 | Cite this:   |

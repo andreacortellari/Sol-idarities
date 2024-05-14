@@ -5,6 +5,10 @@ categories: [Articles]
 tags: []
 ---
 
+An article titled 'Ya İstiklal Ya Ölüm!' was published in Kurtuluş in 1970-10-01. The magazine can be accessed on [TÜSTAV](https://www.tustav.org/sureli-yayinlar-arsivi/kurtulus/).
+
+✪ ✪ ✪ ✪
+
 
 
 | Cite this:   |

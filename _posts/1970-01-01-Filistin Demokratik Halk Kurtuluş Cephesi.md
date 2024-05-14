@@ -5,6 +5,10 @@ categories: [Articles]
 tags: []
 ---
 
+An article titled 'Filistin Demokratik Halk Kurtuluş Cephesi' was published in Haftalık Ant Dergisi in 1970-01-01. The magazine can be accessed on [TÜSTAV](https://www.tustav.org/sureli-yayinlar-arsivi/ant-dergisi/).
+
+✪ ✪ ✪ ✪
+
 
 
 | Cite this:   |

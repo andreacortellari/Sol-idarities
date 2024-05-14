@@ -5,6 +5,10 @@ categories: [Articles]
 tags: []
 ---
 
+An article titled 'Aydınlık'ta Dünya ve Türkiye' was published in Aydınlık Sosyalist Dergi in 1969-04-01. The magazine can be accessed on [TÜSTAV](https://www.tustav.org/sureli-yayinlar-arsivi/aydinlik/).
+
+✪ ✪ ✪ ✪
+
 
 
 | Cite this:   |

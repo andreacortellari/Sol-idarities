@@ -5,6 +5,10 @@ categories: [Articles]
 tags: []
 ---
 
+An article titled 'Orta Doğuda Fedayi Harekatı ve Filistin Demokratik Halk Kurtuluş Cephesi' was published in Aydınlık Sosyalist Dergi in 1970-05-01. The magazine can be accessed on [TÜSTAV](https://www.tustav.org/sureli-yayinlar-arsivi/aydinlik/).
+
+✪ ✪ ✪ ✪
+
 
 
 | Cite this:   |

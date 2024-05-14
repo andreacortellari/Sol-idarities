@@ -5,6 +5,10 @@ categories: [Articles]
 tags: []
 ---
 
+An article titled 'Ortadoğu ve El Fetih' was published in Aydınlık Sosyalist Dergi in 1968-11-01. The magazine can be accessed on [TÜSTAV](https://www.tustav.org/sureli-yayinlar-arsivi/aydinlik/).
+
+✪ ✪ ✪ ✪
+
 
 
 | Cite this:   |

@@ -5,6 +5,10 @@ categories: [Articles]
 tags: []
 ---
 
+An article titled 'Filistin’de Halk Savaşı Zafere Ulaşacaktır!' was published in Aylık Ant Dergisi in 1970-10-01. The magazine can be accessed on [TÜSTAV](https://www.tustav.org/sureli-yayinlar-arsivi/ant-dergisi/).
+
+✪ ✪ ✪ ✪
+
 
 
 | Cite this:   |
